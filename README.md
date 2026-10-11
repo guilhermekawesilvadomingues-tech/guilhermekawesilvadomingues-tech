@@ -16,10 +16,10 @@ Antes de programar, passei anos em operação e atendimento, em hospitais e cent
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-dags-noite.webp"><img src="assets/numero-dags-dia.webp" width="164" alt="106 DAGs em produção"></picture>&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-precos-noite.webp"><img src="assets/numero-precos-dia.webp" width="164" alt="304 mil preços em um dia"></picture>&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-tempo-noite.webp"><img src="assets/numero-tempo-dia.webp" width="164" alt="Cerca de 15 minutos onde antes eram até 4 dias"></picture>&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-sites-noite.webp"><img src="assets/numero-sites-dia.webp" width="164" alt="5 sites no ar"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-dags-noite.webp"><img src="assets/numero-dags-dia.webp" width="148" alt="106 DAGs em produção"></picture>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-precos-noite.webp"><img src="assets/numero-precos-dia.webp" width="148" alt="304 mil preços em um dia"></picture>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-tempo-noite.webp"><img src="assets/numero-tempo-dia.webp" width="148" alt="Cerca de 15 minutos onde antes eram até 4 dias"></picture>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/numero-sites-noite.webp"><img src="assets/numero-sites-dia.webp" width="148" alt="5 sites no ar"></picture>
 </p>
 
 <a href="https://guilherme-digital-lab.web.app/">
